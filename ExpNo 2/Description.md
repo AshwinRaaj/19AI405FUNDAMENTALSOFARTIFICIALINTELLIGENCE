@@ -1,4 +1,6 @@
 # Exp no 02 : IMPLEMENT BREADTH FIRST SEARCH TRAVERSAL OF A GRAPH 
+## NAME : ASHWIN RAAJ S
+## REGISTER NUMBER : 212221230008
 ## AIM:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
 ## THEORY:
@@ -87,9 +89,6 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 
 ## PROGRAM:
-DEVELOPED BY : ASHWIN RAAJ S
-
-REGISTER NUMBER : 212221230008
 ```PYTHON
 from collections import deque
 from collections import defaultdict
