@@ -1,4 +1,6 @@
 # Exp no 05 : IMPLEMENT MIN-MAX SEARCH ALGORITHM FOR A SIMPLE TIC-TAC-TOE GAME
+## NAME : ASHWIN RAAJ S
+## REGISTER NUMBER : 212221230008
 ## AIM:
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -113,9 +115,6 @@ end
 <hr>
 
 ## PROGRAM:
-DEVELOPED BY : ASHWIN RAAJ S
-
-REGISTER NUMBER : 212221230008
 ```PYTHON
 import time
 
