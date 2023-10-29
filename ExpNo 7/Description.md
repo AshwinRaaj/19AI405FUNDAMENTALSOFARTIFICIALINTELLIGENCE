@@ -1,4 +1,6 @@
 # Exp no 07 : SOLVE CRYPT ARITHMETIC PROBLEM, A CSP(CONSTRAINT SATISFACTION PROBLEM)
+## NAME : ASHWIN RAAJ S
+## REGISTER NUMBER : 212221230008
 ## AIM:
 
    To solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python
@@ -79,9 +81,6 @@ MONEY = 10652<br>
 <hr>
 
 ## PROGRAM:
-DEVELOPED BY : ASHWIN RAAJ S
-
-REGISTER NUMBER : 212221230008
 ```PYTHON
 from itertools import permutations
 
